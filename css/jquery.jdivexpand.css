@@ -1,0 +1,26 @@
+div.jde {
+	width: 300px;
+	min-height: 50px;
+	max-height: 250px;
+	height: 50px;
+	overflow: hidden;	
+}
+div.jde_title {
+	width: 300px;
+	font-size: 14px;
+	line-height:16px;
+	font-weight: bolder;
+}
+.jde_more {
+	width: 300px;
+}
+.showJdeIcon {
+	width: 15px;
+	float: left;
+}
+.showMoreJde {
+	width: 100px;
+}
+.showLessJde {
+	width: 100px;
+}
